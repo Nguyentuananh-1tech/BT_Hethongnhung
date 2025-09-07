@@ -1,1 +1,1 @@
-Bài tập 1 : Cài đặt phần mềm, công cụ lập trình cho STM32F1
+Bài tập 1 : Cài đặt phần mềm, công cụ lập trình cho STM32F1 (Sử dụng ngôn ngữ HAL)
