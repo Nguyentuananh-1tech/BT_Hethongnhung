@@ -1,4 +1,4 @@
-##Bài tập 1 : Cài đặt phần mềm, công cụ lập trình cho STM32F1 (Sử dụng ngôn ngữ HAL)
+## Bài tập 1 : Cài đặt phần mềm, công cụ lập trình cho STM32F1 (Sử dụng ngôn ngữ HAL)
 Cài đặt phần mầm, công cụ lập trình cho STM32F1
 ## Yêu cầu
 Cài đặt và cấu hình thành công môi trường phát triển trên Windows (KeilC) hoặc Linux (ARM-GCC)
